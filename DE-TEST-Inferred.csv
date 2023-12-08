@@ -1,0 +1,523 @@
+file_name,label,value,x0,y0,x2,y2
+1040_file_10.pdf,Basic Information___First Name,Derrick,111.9,329.1,639.7,361.1
+1040_file_10.pdf,Basic Information___Last Name,Wilson,673.3,325.9,1258.6,359.5
+1040_file_10.pdf,Income___One_B,30,1404.1,1052.9,1597.6,1075.2
+1040_file_10.pdf,Income___One_D,49,1405.7,1116.8,1591.3,1147.1
+1040_file_10.pdf,Income___One_F,60497,1405.7,1183.9,1594.4,1211
+1040_file_10.pdf,Income___One_H,65,1404.1,1252.6,1596,1278.1
+1040_file_10.pdf,Income___One_Z,81734.289,1404.1,1310.1,1596,1342
+1040_file_10.pdf,Income___Three_B,18908.218,1404.1,1386.8,1596,1412.3
+1040_file_10.pdf,Income___Four_B,30216.039,1404.1,1420.3,1599.2,1445.9
+1040_file_10.pdf,Income___Five_B,52727.66,1402.5,1450.7,1600.8,1479.4
+1040_file_10.pdf,Income___Ten,5421,1402.5,1652,1600.8,1679.2
+1040_file_10.pdf,Income___Fourteen,81172,1404.1,1784.6,1597.6,1811.8
+1040_file_16.pdf,Basic Information___First Name,Christopher,111.9,329.1,639.7,361.1
+1040_file_16.pdf,Basic Information___Last Name,Walton,673.3,325.9,1258.6,359.5
+1040_file_16.pdf,Income___One_A,7283.964,1405.7,1017.7,1591.3,1046.5
+1040_file_16.pdf,Income___One_D,700,1405.7,1116.8,1591.3,1147.1
+1040_file_16.pdf,Income___One_E,26507.77,1404.1,1151.9,1594.4,1179.1
+1040_file_16.pdf,Income___One_F,18925,1405.7,1183.9,1594.4,1211
+1040_file_16.pdf,Income___One_H,89725.03,1404.1,1252.6,1596,1278.1
+1040_file_16.pdf,Income___Two_B,1,1402.5,1353.2,1596,1377.2
+1040_file_16.pdf,Income___Three_B,56667.775,1404.1,1386.8,1596,1412.3
+1040_file_16.pdf,Income___Four_B,8,1404.1,1420.3,1599.2,1445.9
+1040_file_16.pdf,Income___Six_B,35575.885,1402.5,1487.4,1596,1511.4
+1040_file_16.pdf,Income___Seven,35963,1404.1,1548.1,1597.6,1576.9
+1040_file_16.pdf,Income___Eight,869,1404.1,1586.5,1596,1610.5
+1040_file_16.pdf,Income___Ten,0,1402.5,1652,1600.8,1679.2
+1040_file_16.pdf,Income___Fourteen,42307.005,1404.1,1784.6,1597.6,1811.8
+1040_file_17.pdf,Basic Information___First Name,Alan,111.9,329.1,639.7,361.1
+1040_file_17.pdf,Basic Information___Last Name,Smith,673.3,325.9,1258.6,359.5
+1040_file_17.pdf,Income___One_A,6057,1405.7,1017.7,1591.3,1046.5
+1040_file_17.pdf,Income___One_C,13499.353,1405.7,1086.4,1591.3,1112
+1040_file_17.pdf,Income___One_D,222,1405.7,1116.8,1591.3,1147.1
+1040_file_17.pdf,Income___One_F,0,1405.7,1183.9,1594.4,1211
+1040_file_17.pdf,Income___One_G,83457.895,1404.1,1219,1596,1246.2
+1040_file_17.pdf,Income___One_Z,17773.47,1404.1,1310.1,1596,1342
+1040_file_17.pdf,Income___Two_B,13728,1402.5,1353.2,1596,1377.2
+1040_file_17.pdf,Income___Six_B,12744.485,1402.5,1487.4,1596,1511.4
+1040_file_17.pdf,Income___Ten,61897.8,1402.5,1652,1600.8,1679.2
+1040_file_17.pdf,Income___Eleven,41,1402.5,1684,1599.2,1709.5
+1040_file_17.pdf,Income___Fourteen,1,1404.1,1784.6,1597.6,1811.8
+1040_file_17.pdf,Income___Fifteen,76027.27,1404.1,1819.8,1596,1848.5
+1040_file_19.pdf,Basic Information___First Name,Mrs.,111.9,329.1,639.7,361.1
+1040_file_19.pdf,Basic Information___Last Name,Perry,673.3,325.9,1258.6,359.5
+1040_file_19.pdf,Income___One_A,58012.58,1405.7,1017.7,1591.3,1046.5
+1040_file_19.pdf,Income___One_B,72,1404.1,1052.9,1597.6,1075.2
+1040_file_19.pdf,Income___One_D,57872.281,1405.7,1116.8,1591.3,1147.1
+1040_file_19.pdf,Income___One_F,98855,1405.7,1183.9,1594.4,1211
+1040_file_19.pdf,Income___One_G,901,1404.1,1219,1596,1246.2
+1040_file_19.pdf,Income___Two_B,84143.491,1402.5,1353.2,1596,1377.2
+1040_file_19.pdf,Income___Three_B,54912.06,1404.1,1386.8,1596,1412.3
+1040_file_19.pdf,Income___Four_B,684,1404.1,1420.3,1599.2,1445.9
+1040_file_19.pdf,Income___Seven,92676.05,1404.1,1548.1,1597.6,1576.9
+1040_file_19.pdf,Income___Eight,94298.645,1404.1,1586.5,1596,1610.5
+1040_file_19.pdf,Income___Nine,8,1404.1,1618.4,1592.9,1644
+1040_file_19.pdf,Income___Eleven,5537,1402.5,1684,1599.2,1709.5
+1040_file_19.pdf,Income___Twelve,46,1404.1,1717.5,1597.6,1744.7
+1040_file_31.pdf,Basic Information___First Name,Lauren,111.9,329.1,639.7,361.1
+1040_file_31.pdf,Basic Information___Last Name,Hernandez,673.3,325.9,1258.6,359.5
+1040_file_31.pdf,Income___One_A,5,1405.7,1017.7,1591.3,1046.5
+1040_file_31.pdf,Income___One_E,9276,1404.1,1151.9,1594.4,1179.1
+1040_file_31.pdf,Income___One_G,44906.585,1404.1,1219,1596,1246.2
+1040_file_31.pdf,Income___One_H,18420.59,1404.1,1252.6,1596,1278.1
+1040_file_31.pdf,Income___Three_B,9402.12,1404.1,1386.8,1596,1412.3
+1040_file_31.pdf,Income___Four_B,53108.89,1404.1,1420.3,1599.2,1445.9
+1040_file_31.pdf,Income___Five_B,2,1402.5,1450.7,1600.8,1479.4
+1040_file_31.pdf,Income___Six_B,273,1402.5,1487.4,1596,1511.4
+1040_file_31.pdf,Income___Seven,42814.25,1404.1,1548.1,1597.6,1576.9
+1040_file_31.pdf,Income___Nine,45565.87,1404.1,1618.4,1592.9,1644
+1040_file_31.pdf,Income___Twelve,647,1404.1,1717.5,1597.6,1744.7
+1040_file_31.pdf,Income___Thirteen,7890,1400.9,1751.1,1597.6,1776.6
+1040_file_31.pdf,Income___Fourteen,83508.451,1404.1,1784.6,1597.6,1811.8
+1040_file_46.pdf,Basic Information___First Name,Tony,111.9,329.1,639.7,361.1
+1040_file_46.pdf,Basic Information___Last Name,Small,673.3,325.9,1258.6,359.5
+1040_file_46.pdf,Income___One_C,53040,1405.7,1086.4,1591.3,1112
+1040_file_46.pdf,Income___Three_B,1881.445,1404.1,1386.8,1596,1412.3
+1040_file_46.pdf,Income___Five_B,56,1402.5,1450.7,1600.8,1479.4
+1040_file_46.pdf,Income___Six_B,0,1402.5,1487.4,1596,1511.4
+1040_file_46.pdf,Income___Eight,3275.06,1404.1,1586.5,1596,1610.5
+1040_file_46.pdf,Income___Nine,93,1404.1,1618.4,1592.9,1644
+1040_file_46.pdf,Income___Ten,6,1402.5,1652,1600.8,1679.2
+1040_file_46.pdf,Income___Eleven,66471.38,1402.5,1684,1599.2,1709.5
+1040_file_46.pdf,Income___Twelve,5614.26,1404.1,1717.5,1597.6,1744.7
+1040_file_46.pdf,Income___Fifteen,38302.434,1404.1,1819.8,1596,1848.5
+1040_file_56.pdf,Basic Information___First Name,David,111.9,329.1,639.7,361.1
+1040_file_56.pdf,Basic Information___Last Name,Spencer,673.3,325.9,1258.6,359.5
+1040_file_56.pdf,Income___One_B,6,1404.1,1052.9,1597.6,1075.2
+1040_file_56.pdf,Income___One_F,67228.031,1405.7,1183.9,1594.4,1211
+1040_file_56.pdf,Income___One_G,710,1404.1,1219,1596,1246.2
+1040_file_56.pdf,Income___One_H,76733.468,1404.1,1252.6,1596,1278.1
+1040_file_56.pdf,Income___Two_B,35664.59,1402.5,1353.2,1596,1377.2
+1040_file_56.pdf,Income___Three_B,37959.24,1404.1,1386.8,1596,1412.3
+1040_file_56.pdf,Income___Four_B,92074.02,1404.1,1420.3,1599.2,1445.9
+1040_file_56.pdf,Income___Seven,9,1404.1,1548.1,1597.6,1576.9
+1040_file_56.pdf,Income___Eight,77474.686,1404.1,1586.5,1596,1610.5
+1040_file_56.pdf,Income___Fourteen,48798.53,1404.1,1784.6,1597.6,1811.8
+1040_file_56.pdf,Income___Fifteen,90434,1404.1,1819.8,1596,1848.5
+1040_file_57.pdf,Basic Information___First Name,Darlene,111.9,329.1,639.7,361.1
+1040_file_57.pdf,Basic Information___Last Name,Liu,673.3,325.9,1258.6,359.5
+1040_file_57.pdf,Income___One_C,41789.09,1405.7,1086.4,1591.3,1112
+1040_file_57.pdf,Income___One_D,31,1405.7,1116.8,1591.3,1147.1
+1040_file_57.pdf,Income___One_G,1768,1404.1,1219,1596,1246.2
+1040_file_57.pdf,Income___Three_B,6435.69,1404.1,1386.8,1596,1412.3
+1040_file_57.pdf,Income___Five_B,23821.96,1402.5,1450.7,1600.8,1479.4
+1040_file_57.pdf,Income___Six_B,5377.643,1402.5,1487.4,1596,1511.4
+1040_file_57.pdf,Income___Seven,53828,1404.1,1548.1,1597.6,1576.9
+1040_file_57.pdf,Income___Ten,0,1402.5,1652,1600.8,1679.2
+1040_file_57.pdf,Income___Twelve,97638.57,1404.1,1717.5,1597.6,1744.7
+1040_file_57.pdf,Income___Thirteen,4114,1400.9,1751.1,1597.6,1776.6
+1040_file_57.pdf,Income___Fourteen,44747.2,1404.1,1784.6,1597.6,1811.8
+1040_file_57.pdf,Income___Fifteen,238,1404.1,1819.8,1596,1848.5
+1040_file_61.pdf,Basic Information___First Name,Teresa,111.9,329.1,639.7,361.1
+1040_file_61.pdf,Basic Information___Last Name,Mcknight,673.3,325.9,1258.6,359.5
+1040_file_61.pdf,Income___One_B,257,1404.1,1052.9,1597.6,1075.2
+1040_file_61.pdf,Income___One_D,69,1405.7,1116.8,1591.3,1147.1
+1040_file_61.pdf,Income___One_G,78115.362,1404.1,1219,1596,1246.2
+1040_file_61.pdf,Income___Two_B,31052.182,1402.5,1353.2,1596,1377.2
+1040_file_61.pdf,Income___Five_B,74704.96,1402.5,1450.7,1600.8,1479.4
+1040_file_61.pdf,Income___Six_B,94836.77,1402.5,1487.4,1596,1511.4
+1040_file_61.pdf,Income___Eight,153,1404.1,1586.5,1596,1610.5
+1040_file_61.pdf,Income___Thirteen,11,1400.9,1751.1,1597.6,1776.6
+1040_file_61.pdf,Income___Fourteen,49738.858,1404.1,1784.6,1597.6,1811.8
+1040_file_61.pdf,Income___Fifteen,1809,1404.1,1819.8,1596,1848.5
+1040_file_66.pdf,Basic Information___First Name,Mark,111.9,329.1,639.7,361.1
+1040_file_66.pdf,Basic Information___Last Name,Steele,673.3,325.9,1258.6,359.5
+1040_file_66.pdf,Income___One_B,5889,1404.1,1052.9,1597.6,1075.2
+1040_file_66.pdf,Income___One_F,7344.32,1405.7,1183.9,1594.4,1211
+1040_file_66.pdf,Income___One_G,82159,1404.1,1219,1596,1246.2
+1040_file_66.pdf,Income___One_H,54801.817,1404.1,1252.6,1596,1278.1
+1040_file_66.pdf,Income___Three_B,56996.471,1404.1,1386.8,1596,1412.3
+1040_file_66.pdf,Income___Four_B,4,1404.1,1420.3,1599.2,1445.9
+1040_file_66.pdf,Income___Eight,97243,1404.1,1586.5,1596,1610.5
+1040_file_66.pdf,Income___Nine,55830.02,1404.1,1618.4,1592.9,1644
+1040_file_66.pdf,Income___Ten,0,1402.5,1652,1600.8,1679.2
+1040_file_66.pdf,Income___Eleven,3654,1402.5,1684,1599.2,1709.5
+1040_file_66.pdf,Income___Fourteen,75092.364,1404.1,1784.6,1597.6,1811.8
+1040_file_67.pdf,Basic Information___First Name,Tracy,111.9,329.1,639.7,361.1
+1040_file_67.pdf,Basic Information___Last Name,Perez,673.3,325.9,1258.6,359.5
+1040_file_67.pdf,Income___One_A,67017.551,1405.7,1017.7,1591.3,1046.5
+1040_file_67.pdf,Income___One_D,46200.247,1405.7,1116.8,1591.3,1147.1
+1040_file_67.pdf,Income___One_E,13149,1404.1,1151.9,1594.4,1179.1
+1040_file_67.pdf,Income___One_G,5168,1404.1,1219,1596,1246.2
+1040_file_67.pdf,Income___Three_B,71118.521,1404.1,1386.8,1596,1412.3
+1040_file_67.pdf,Income___Thirteen,61,1400.9,1751.1,1597.6,1776.6
+1040_file_67.pdf,Income___Fifteen,31965.71,1404.1,1819.8,1596,1848.5
+1040_file_68.pdf,Basic Information___First Name,Matthew,111.9,329.1,639.7,361.1
+1040_file_68.pdf,Basic Information___Last Name,Gill,673.3,325.9,1258.6,359.5
+1040_file_68.pdf,Income___One_B,6360,1404.1,1052.9,1597.6,1075.2
+1040_file_68.pdf,Income___One_D,980,1405.7,1116.8,1591.3,1147.1
+1040_file_68.pdf,Income___One_H,57407.784,1404.1,1252.6,1596,1278.1
+1040_file_68.pdf,Income___One_Z,35388,1404.1,1310.1,1596,1342
+1040_file_68.pdf,Income___Five_B,34169.92,1402.5,1450.7,1600.8,1479.4
+1040_file_68.pdf,Income___Eight,86399.89,1404.1,1586.5,1596,1610.5
+1040_file_68.pdf,Income___Nine,6,1404.1,1618.4,1592.9,1644
+1040_file_68.pdf,Income___Eleven,98377.665,1402.5,1684,1599.2,1709.5
+1040_file_68.pdf,Income___Fourteen,4505,1404.1,1784.6,1597.6,1811.8
+1040_file_69.pdf,Basic Information___First Name,Ryan,111.9,329.1,639.7,361.1
+1040_file_69.pdf,Basic Information___Last Name,Barber,673.3,325.9,1258.6,359.5
+1040_file_69.pdf,Income___One_A,6629,1405.7,1017.7,1591.3,1046.5
+1040_file_69.pdf,Income___One_B,82405.286,1404.1,1052.9,1597.6,1075.2
+1040_file_69.pdf,Income___One_F,56722.5,1405.7,1183.9,1594.4,1211
+1040_file_69.pdf,Income___One_G,97538.111,1404.1,1219,1596,1246.2
+1040_file_69.pdf,Income___One_H,7471,1404.1,1252.6,1596,1278.1
+1040_file_69.pdf,Income___Three_B,60,1404.1,1386.8,1596,1412.3
+1040_file_69.pdf,Income___Five_B,32833.636,1402.5,1450.7,1600.8,1479.4
+1040_file_69.pdf,Income___Six_B,66378,1402.5,1487.4,1596,1511.4
+1040_file_69.pdf,Income___Seven,13850.692,1404.1,1548.1,1597.6,1576.9
+1040_file_69.pdf,Income___Nine,77399.22,1404.1,1618.4,1592.9,1644
+1040_file_69.pdf,Income___Ten,76046.033,1402.5,1652,1600.8,1679.2
+1040_file_69.pdf,Income___Eleven,30154,1402.5,1684,1599.2,1709.5
+1040_file_69.pdf,Income___Twelve,9,1404.1,1717.5,1597.6,1744.7
+1040_file_69.pdf,Income___Thirteen,36429.331,1400.9,1751.1,1597.6,1776.6
+1040_file_70.pdf,Basic Information___First Name,Brenda,111.9,329.1,639.7,361.1
+1040_file_70.pdf,Basic Information___Last Name,Chapman,673.3,325.9,1258.6,359.5
+1040_file_70.pdf,Income___One_D,97338.78,1405.7,1116.8,1591.3,1147.1
+1040_file_70.pdf,Income___One_G,15683.241,1404.1,1219,1596,1246.2
+1040_file_70.pdf,Income___One_Z,51735.885,1404.1,1310.1,1596,1342
+1040_file_70.pdf,Income___Two_B,86782,1402.5,1353.2,1596,1377.2
+1040_file_70.pdf,Income___Five_B,39,1402.5,1450.7,1600.8,1479.4
+1040_file_70.pdf,Income___Seven,59203.67,1404.1,1548.1,1597.6,1576.9
+1040_file_70.pdf,Income___Eight,6051,1404.1,1586.5,1596,1610.5
+1040_file_70.pdf,Income___Nine,3763,1404.1,1618.4,1592.9,1644
+1040_file_70.pdf,Income___Eleven,41543.64,1402.5,1684,1599.2,1709.5
+1040_file_70.pdf,Income___Twelve,760,1404.1,1717.5,1597.6,1744.7
+1040_file_70.pdf,Income___Fourteen,35569.06,1404.1,1784.6,1597.6,1811.8
+1040_file_76.pdf,Basic Information___First Name,Nancy,111.9,329.1,639.7,361.1
+1040_file_76.pdf,Basic Information___Last Name,Morales,673.3,325.9,1258.6,359.5
+1040_file_76.pdf,Income___One_C,84,1405.7,1086.4,1591.3,1112
+1040_file_76.pdf,Income___One_G,53267.26,1404.1,1219,1596,1246.2
+1040_file_76.pdf,Income___One_H,43634,1404.1,1252.6,1596,1278.1
+1040_file_76.pdf,Income___Two_B,6494.871,1402.5,1353.2,1596,1377.2
+1040_file_76.pdf,Income___Three_B,1,1404.1,1386.8,1596,1412.3
+1040_file_76.pdf,Income___Five_B,141,1402.5,1450.7,1600.8,1479.4
+1040_file_76.pdf,Income___Six_B,451,1402.5,1487.4,1596,1511.4
+1040_file_76.pdf,Income___Eleven,83,1402.5,1684,1599.2,1709.5
+1040_file_76.pdf,Income___Twelve,50,1404.1,1717.5,1597.6,1744.7
+1040_file_76.pdf,Income___Thirteen,2202,1400.9,1751.1,1597.6,1776.6
+1040_file_76.pdf,Income___Fourteen,5274.91,1404.1,1784.6,1597.6,1811.8
+1040_file_77.pdf,Basic Information___First Name,Billy,111.9,329.1,639.7,361.1
+1040_file_77.pdf,Basic Information___Last Name,Alexander,673.3,325.9,1258.6,359.5
+1040_file_77.pdf,Income___One_A,46329.141,1405.7,1017.7,1591.3,1046.5
+1040_file_77.pdf,Income___One_B,79,1404.1,1052.9,1597.6,1075.2
+1040_file_77.pdf,Income___One_E,613,1404.1,1151.9,1594.4,1179.1
+1040_file_77.pdf,Income___One_F,35824.46,1405.7,1183.9,1594.4,1211
+1040_file_77.pdf,Income___One_H,85759.816,1404.1,1252.6,1596,1278.1
+1040_file_77.pdf,Income___One_Z,639.195,1404.1,1310.1,1596,1342
+1040_file_77.pdf,Income___Three_B,35648.102,1404.1,1386.8,1596,1412.3
+1040_file_77.pdf,Income___Five_B,2,1402.5,1450.7,1600.8,1479.4
+1040_file_77.pdf,Income___Eight,9,1404.1,1586.5,1596,1610.5
+1040_file_77.pdf,Income___Nine,33321.43,1404.1,1618.4,1592.9,1644
+1040_file_77.pdf,Income___Eleven,1186,1402.5,1684,1599.2,1709.5
+1040_file_77.pdf,Income___Fifteen,54764.26,1404.1,1819.8,1596,1848.5
+1040_file_79.pdf,Basic Information___First Name,Ana,111.9,329.1,639.7,361.1
+1040_file_79.pdf,Basic Information___Last Name,Webb,673.3,325.9,1258.6,359.5
+1040_file_79.pdf,Income___One_A,71221.248,1405.7,1017.7,1591.3,1046.5
+1040_file_79.pdf,Income___One_B,73245.287,1404.1,1052.9,1597.6,1075.2
+1040_file_79.pdf,Income___One_C,664,1405.7,1086.4,1591.3,1112
+1040_file_79.pdf,Income___One_D,64981.82,1405.7,1116.8,1591.3,1147.1
+1040_file_79.pdf,Income___One_E,36041,1404.1,1151.9,1594.4,1179.1
+1040_file_79.pdf,Income___One_F,76794.755,1405.7,1183.9,1594.4,1211
+1040_file_79.pdf,Income___One_G,63836.88,1404.1,1219,1596,1246.2
+1040_file_79.pdf,Income___One_H,8798.481,1404.1,1252.6,1596,1278.1
+1040_file_79.pdf,Income___One_Z,98840.153,1404.1,1310.1,1596,1342
+1040_file_79.pdf,Income___Three_B,45401.63,1404.1,1386.8,1596,1412.3
+1040_file_79.pdf,Income___Six_B,66316.84,1402.5,1487.4,1596,1511.4
+1040_file_79.pdf,Income___Ten,487,1402.5,1652,1600.8,1679.2
+1040_file_79.pdf,Income___Thirteen,8032,1400.9,1751.1,1597.6,1776.6
+1040_file_83.pdf,Basic Information___First Name,Kimberly,111.9,329.1,639.7,361.1
+1040_file_83.pdf,Basic Information___Last Name,Rhodes,673.3,325.9,1258.6,359.5
+1040_file_83.pdf,Income___One_B,4,1404.1,1052.9,1597.6,1075.2
+1040_file_83.pdf,Income___One_C,64929.145,1405.7,1086.4,1591.3,1112
+1040_file_83.pdf,Income___One_D,20,1405.7,1116.8,1591.3,1147.1
+1040_file_83.pdf,Income___One_E,97,1404.1,1151.9,1594.4,1179.1
+1040_file_83.pdf,Income___One_F,82734.393,1405.7,1183.9,1594.4,1211
+1040_file_83.pdf,Income___One_G,947,1404.1,1219,1596,1246.2
+1040_file_83.pdf,Income___One_H,42264.27,1404.1,1252.6,1596,1278.1
+1040_file_83.pdf,Income___Two_B,9,1402.5,1353.2,1596,1377.2
+1040_file_83.pdf,Income___Three_B,7248.36,1404.1,1386.8,1596,1412.3
+1040_file_83.pdf,Income___Four_B,67427.302,1404.1,1420.3,1599.2,1445.9
+1040_file_83.pdf,Income___Five_B,28043.108,1402.5,1450.7,1600.8,1479.4
+1040_file_83.pdf,Income___Six_B,30215.95,1402.5,1487.4,1596,1511.4
+1040_file_83.pdf,Income___Seven,51802.05,1404.1,1548.1,1597.6,1576.9
+1040_file_83.pdf,Income___Eight,35184.273,1404.1,1586.5,1596,1610.5
+1040_file_83.pdf,Income___Nine,613,1404.1,1618.4,1592.9,1644
+1040_file_83.pdf,Income___Eleven,7,1402.5,1684,1599.2,1709.5
+1040_file_83.pdf,Income___Thirteen,5097,1400.9,1751.1,1597.6,1776.6
+1040_file_83.pdf,Income___Fifteen,65885.516,1404.1,1819.8,1596,1848.5
+1040_file_85.pdf,Basic Information___First Name,Eric,111.9,329.1,639.7,361.1
+1040_file_85.pdf,Basic Information___Last Name,Hendricks,673.3,325.9,1258.6,359.5
+1040_file_85.pdf,Income___One_C,5448.8,1405.7,1086.4,1591.3,1112
+1040_file_85.pdf,Income___One_E,66262.76,1404.1,1151.9,1594.4,1179.1
+1040_file_85.pdf,Income___One_F,29,1405.7,1183.9,1594.4,1211
+1040_file_85.pdf,Income___Three_B,6685.8,1404.1,1386.8,1596,1412.3
+1040_file_85.pdf,Income___Four_B,4711.01,1404.1,1420.3,1599.2,1445.9
+1040_file_85.pdf,Income___Nine,85171.87,1404.1,1618.4,1592.9,1644
+1040_file_85.pdf,Income___Eleven,41,1402.5,1684,1599.2,1709.5
+1040_file_85.pdf,Income___Thirteen,41105,1400.9,1751.1,1597.6,1776.6
+1040_file_85.pdf,Income___Fourteen,263,1404.1,1784.6,1597.6,1811.8
+1040_file_85.pdf,Income___Fifteen,478,1404.1,1819.8,1596,1848.5
+1040_file_94.pdf,Basic Information___First Name,Nicholas,111.9,329.1,639.7,361.1
+1040_file_94.pdf,Basic Information___Last Name,Davis,673.3,325.9,1258.6,359.5
+1040_file_94.pdf,Income___One_A,8,1405.7,1017.7,1591.3,1046.5
+1040_file_94.pdf,Income___One_B,26779.231,1404.1,1052.9,1597.6,1075.2
+1040_file_94.pdf,Income___One_G,49404.161,1404.1,1219,1596,1246.2
+1040_file_94.pdf,Income___One_Z,71606.777,1404.1,1310.1,1596,1342
+1040_file_94.pdf,Income___Two_B,186,1402.5,1353.2,1596,1377.2
+1040_file_94.pdf,Income___Five_B,76959.45,1402.5,1450.7,1600.8,1479.4
+1040_file_94.pdf,Income___Six_B,13,1402.5,1487.4,1596,1511.4
+1040_file_94.pdf,Income___Seven,65302.75,1404.1,1548.1,1597.6,1576.9
+1040_file_94.pdf,Income___Eight,43959.68,1404.1,1586.5,1596,1610.5
+1040_file_94.pdf,Income___Nine,1394,1404.1,1618.4,1592.9,1644
+1040_file_94.pdf,Income___Ten,56297.34,1402.5,1652,1600.8,1679.2
+1040_file_96.pdf,Basic Information___First Name,Daniel,111.9,329.1,639.7,361.1
+1040_file_96.pdf,Basic Information___Last Name,Morris,673.3,325.9,1258.6,359.5
+1040_file_96.pdf,Income___One_B,81246.25,1404.1,1052.9,1597.6,1075.2
+1040_file_96.pdf,Income___One_C,3164,1405.7,1086.4,1591.3,1112
+1040_file_96.pdf,Income___One_E,57829.639,1404.1,1151.9,1594.4,1179.1
+1040_file_96.pdf,Income___One_G,544.28,1404.1,1219,1596,1246.2
+1040_file_96.pdf,Income___One_Z,725,1404.1,1310.1,1596,1342
+1040_file_96.pdf,Income___Five_B,2406,1402.5,1450.7,1600.8,1479.4
+1040_file_96.pdf,Income___Seven,0,1404.1,1548.1,1597.6,1576.9
+1040_file_96.pdf,Income___Eight,32145.87,1404.1,1586.5,1596,1610.5
+1040_file_96.pdf,Income___Ten,6,1402.5,1652,1600.8,1679.2
+1040_file_96.pdf,Income___Twelve,4021,1404.1,1717.5,1597.6,1744.7
+1040_file_96.pdf,Income___Fifteen,44447.26,1404.1,1819.8,1596,1848.5
+1040_file_105.pdf,Basic Information___First Name,Alyssa,111.9,329.1,639.7,361.1
+1040_file_105.pdf,Basic Information___Last Name,Campbell,673.3,325.9,1258.6,359.5
+1040_file_105.pdf,Income___One_A,77434.567,1405.7,1017.7,1591.3,1046.5
+1040_file_105.pdf,Income___One_C,14057.64,1405.7,1086.4,1591.3,1112
+1040_file_105.pdf,Income___One_E,27746,1404.1,1151.9,1594.4,1179.1
+1040_file_105.pdf,Income___One_F,2472,1405.7,1183.9,1594.4,1211
+1040_file_105.pdf,Income___One_G,387,1404.1,1219,1596,1246.2
+1040_file_105.pdf,Income___Three_B,10840.2,1404.1,1386.8,1596,1412.3
+1040_file_105.pdf,Income___Five_B,43751.01,1402.5,1450.7,1600.8,1479.4
+1040_file_105.pdf,Income___Ten,78737.51,1402.5,1652,1600.8,1679.2
+1040_file_105.pdf,Income___Fifteen,38996.47,1404.1,1819.8,1596,1848.5
+1040_file_116.pdf,Basic Information___First Name,Jaime,111.9,329.1,639.7,361.1
+1040_file_116.pdf,Basic Information___Last Name,Carpenter,673.3,325.9,1258.6,359.5
+1040_file_116.pdf,Income___One_A,59668.56,1405.7,1017.7,1591.3,1046.5
+1040_file_116.pdf,Income___One_B,7592,1404.1,1052.9,1597.6,1075.2
+1040_file_116.pdf,Income___One_C,54789.72,1405.7,1086.4,1591.3,1112
+1040_file_116.pdf,Income___One_F,88477.025,1405.7,1183.9,1594.4,1211
+1040_file_116.pdf,Income___One_G,47906.47,1404.1,1219,1596,1246.2
+1040_file_116.pdf,Income___One_H,0,1404.1,1252.6,1596,1278.1
+1040_file_116.pdf,Income___One_Z,37895.09,1404.1,1310.1,1596,1342
+1040_file_116.pdf,Income___Two_B,28624.01,1402.5,1353.2,1596,1377.2
+1040_file_116.pdf,Income___Three_B,143,1404.1,1386.8,1596,1412.3
+1040_file_116.pdf,Income___Five_B,84974.79,1402.5,1450.7,1600.8,1479.4
+1040_file_116.pdf,Income___Seven,49290.072,1404.1,1548.1,1597.6,1576.9
+1040_file_116.pdf,Income___Eight,75554,1404.1,1586.5,1596,1610.5
+1040_file_116.pdf,Income___Nine,42260.583,1404.1,1618.4,1592.9,1644
+1040_file_116.pdf,Income___Twelve,52464.77,1404.1,1717.5,1597.6,1744.7
+1040_file_116.pdf,Income___Thirteen,706,1400.9,1751.1,1597.6,1776.6
+1040_file_116.pdf,Income___Fifteen,22,1404.1,1819.8,1596,1848.5
+1040_file_125.pdf,Basic Information___First Name,David,111.9,329.1,639.7,361.1
+1040_file_125.pdf,Basic Information___Last Name,Walker,673.3,325.9,1258.6,359.5
+1040_file_125.pdf,Income___One_A,75389.02,1405.7,1017.7,1591.3,1046.5
+1040_file_125.pdf,Income___One_C,44516,1405.7,1086.4,1591.3,1112
+1040_file_125.pdf,Income___One_G,65969,1404.1,1219,1596,1246.2
+1040_file_125.pdf,Income___One_Z,30903,1404.1,1310.1,1596,1342
+1040_file_125.pdf,Income___Two_B,48487.2,1402.5,1353.2,1596,1377.2
+1040_file_125.pdf,Income___Four_B,9402,1404.1,1420.3,1599.2,1445.9
+1040_file_125.pdf,Income___Five_B,81587.76,1402.5,1450.7,1600.8,1479.4
+1040_file_125.pdf,Income___Six_B,22403.18,1402.5,1487.4,1596,1511.4
+1040_file_125.pdf,Income___Eight,64738.875,1404.1,1586.5,1596,1610.5
+1040_file_125.pdf,Income___Ten,54,1402.5,1652,1600.8,1679.2
+1040_file_125.pdf,Income___Eleven,280,1402.5,1684,1599.2,1709.5
+1040_file_125.pdf,Income___Twelve,642,1404.1,1717.5,1597.6,1744.7
+1040_file_125.pdf,Income___Fourteen,36751.13,1404.1,1784.6,1597.6,1811.8
+1040_file_126.pdf,Basic Information___First Name,Zachary,111.9,329.1,639.7,361.1
+1040_file_126.pdf,Basic Information___Last Name,Wright,673.3,325.9,1258.6,359.5
+1040_file_126.pdf,Income___One_C,75200.32,1405.7,1086.4,1591.3,1112
+1040_file_126.pdf,Income___One_E,0,1404.1,1151.9,1594.4,1179.1
+1040_file_126.pdf,Income___One_F,11546.87,1405.7,1183.9,1594.4,1211
+1040_file_126.pdf,Income___Seven,19829.29,1404.1,1548.1,1597.6,1576.9
+1040_file_126.pdf,Income___Nine,9605,1404.1,1618.4,1592.9,1644
+1040_file_126.pdf,Income___Thirteen,73809.23,1400.9,1751.1,1597.6,1776.6
+1040_file_126.pdf,Income___Fifteen,62411.088,1404.1,1819.8,1596,1848.5
+1040_file_129.pdf,Basic Information___First Name,Dr.,111.9,329.1,639.7,361.1
+1040_file_129.pdf,Basic Information___Last Name,Thompson,673.3,325.9,1258.6,359.5
+1040_file_129.pdf,Income___One_A,96578.206,1405.7,1017.7,1591.3,1046.5
+1040_file_129.pdf,Income___One_B,941,1404.1,1052.9,1597.6,1075.2
+1040_file_129.pdf,Income___One_C,74238.463,1405.7,1086.4,1591.3,1112
+1040_file_129.pdf,Income___One_D,526,1405.7,1116.8,1591.3,1147.1
+1040_file_129.pdf,Income___One_E,73529,1404.1,1151.9,1594.4,1179.1
+1040_file_129.pdf,Income___One_F,9284,1405.7,1183.9,1594.4,1211
+1040_file_129.pdf,Income___One_H,58931.542,1404.1,1252.6,1596,1278.1
+1040_file_129.pdf,Income___One_Z,27734,1404.1,1310.1,1596,1342
+1040_file_129.pdf,Income___Two_B,49720,1402.5,1353.2,1596,1377.2
+1040_file_129.pdf,Income___Four_B,61405,1404.1,1420.3,1599.2,1445.9
+1040_file_129.pdf,Income___Five_B,73516,1402.5,1450.7,1600.8,1479.4
+1040_file_129.pdf,Income___Eight,88714.799,1404.1,1586.5,1596,1610.5
+1040_file_129.pdf,Income___Nine,8409,1404.1,1618.4,1592.9,1644
+1040_file_129.pdf,Income___Ten,24205.08,1402.5,1652,1600.8,1679.2
+1040_file_133.pdf,Basic Information___First Name,Justin,111.9,329.1,639.7,361.1
+1040_file_133.pdf,Basic Information___Last Name,Johnson,673.3,325.9,1258.6,359.5
+1040_file_133.pdf,Income___One_D,47658.504,1405.7,1116.8,1591.3,1147.1
+1040_file_133.pdf,Income___One_F,37211.097,1405.7,1183.9,1594.4,1211
+1040_file_133.pdf,Income___Two_B,87478,1402.5,1353.2,1596,1377.2
+1040_file_133.pdf,Income___Five_B,40210.445,1402.5,1450.7,1600.8,1479.4
+1040_file_133.pdf,Income___Seven,6480.91,1404.1,1548.1,1597.6,1576.9
+1040_file_133.pdf,Income___Eight,19999.776,1404.1,1586.5,1596,1610.5
+1040_file_133.pdf,Income___Ten,80863.895,1402.5,1652,1600.8,1679.2
+1040_file_133.pdf,Income___Twelve,42890.589,1404.1,1717.5,1597.6,1744.7
+1040_file_133.pdf,Income___Fourteen,2047,1404.1,1784.6,1597.6,1811.8
+1040_file_133.pdf,Income___Fifteen,2009,1404.1,1819.8,1596,1848.5
+1040_file_136.pdf,Basic Information___First Name,Brian,111.9,329.1,639.7,361.1
+1040_file_136.pdf,Basic Information___Last Name,Martinez,673.3,325.9,1258.6,359.5
+1040_file_136.pdf,Income___One_E,93,1404.1,1151.9,1594.4,1179.1
+1040_file_136.pdf,Income___One_Z,69615.422,1404.1,1310.1,1596,1342
+1040_file_136.pdf,Income___Four_B,36,1404.1,1420.3,1599.2,1445.9
+1040_file_136.pdf,Income___Seven,18392.301,1404.1,1548.1,1597.6,1576.9
+1040_file_136.pdf,Income___Nine,35219.148,1404.1,1618.4,1592.9,1644
+1040_file_136.pdf,Income___Twelve,79217,1404.1,1717.5,1597.6,1744.7
+1040_file_136.pdf,Income___Fourteen,66118.909,1404.1,1784.6,1597.6,1811.8
+1040_file_136.pdf,Income___Fifteen,63636.249,1404.1,1819.8,1596,1848.5
+1040_file_138.pdf,Basic Information___First Name,April,111.9,329.1,639.7,361.1
+1040_file_138.pdf,Basic Information___Last Name,Kaufman,673.3,325.9,1258.6,359.5
+1040_file_138.pdf,Income___One_B,767,1404.1,1052.9,1597.6,1075.2
+1040_file_138.pdf,Income___One_E,50230.528,1404.1,1151.9,1594.4,1179.1
+1040_file_138.pdf,Income___One_F,419,1405.7,1183.9,1594.4,1211
+1040_file_138.pdf,Income___One_G,43491.47,1404.1,1219,1596,1246.2
+1040_file_138.pdf,Income___One_H,70076.557,1404.1,1252.6,1596,1278.1
+1040_file_138.pdf,Income___One_Z,4608,1404.1,1310.1,1596,1342
+1040_file_138.pdf,Income___Three_B,65974.91,1404.1,1386.8,1596,1412.3
+1040_file_138.pdf,Income___Four_B,943,1404.1,1420.3,1599.2,1445.9
+1040_file_138.pdf,Income___Seven,93263,1404.1,1548.1,1597.6,1576.9
+1040_file_138.pdf,Income___Nine,6,1404.1,1618.4,1592.9,1644
+1040_file_138.pdf,Income___Eleven,9,1402.5,1684,1599.2,1709.5
+1040_file_138.pdf,Income___Twelve,47235.718,1404.1,1717.5,1597.6,1744.7
+1040_file_149.pdf,Basic Information___First Name,Andrew,111.9,329.1,639.7,361.1
+1040_file_149.pdf,Basic Information___Last Name,Norris,673.3,325.9,1258.6,359.5
+1040_file_149.pdf,Income___One_C,10946,1405.7,1086.4,1591.3,1112
+1040_file_149.pdf,Income___One_D,76726.24,1405.7,1116.8,1591.3,1147.1
+1040_file_149.pdf,Income___One_E,86,1404.1,1151.9,1594.4,1179.1
+1040_file_149.pdf,Income___One_F,72365,1405.7,1183.9,1594.4,1211
+1040_file_149.pdf,Income___Two_B,5,1402.5,1353.2,1596,1377.2
+1040_file_149.pdf,Income___Four_B,58127,1404.1,1420.3,1599.2,1445.9
+1040_file_149.pdf,Income___Five_B,0,1402.5,1450.7,1600.8,1479.4
+1040_file_149.pdf,Income___Seven,74,1404.1,1548.1,1597.6,1576.9
+1040_file_149.pdf,Income___Ten,7820,1402.5,1652,1600.8,1679.2
+1040_file_149.pdf,Income___Eleven,2742,1402.5,1684,1599.2,1709.5
+1040_file_151.pdf,Basic Information___First Name,Steven,111.9,329.1,639.7,361.1
+1040_file_151.pdf,Basic Information___Last Name,Perez,673.3,325.9,1258.6,359.5
+1040_file_151.pdf,Income___One_D,39,1405.7,1116.8,1591.3,1147.1
+1040_file_151.pdf,Income___One_G,526,1404.1,1219,1596,1246.2
+1040_file_151.pdf,Income___One_Z,43032.94,1404.1,1310.1,1596,1342
+1040_file_151.pdf,Income___Two_B,86982.08,1402.5,1353.2,1596,1377.2
+1040_file_151.pdf,Income___Three_B,12334.392,1404.1,1386.8,1596,1412.3
+1040_file_151.pdf,Income___Five_B,84455.743,1402.5,1450.7,1600.8,1479.4
+1040_file_151.pdf,Income___Seven,7429,1404.1,1548.1,1597.6,1576.9
+1040_file_151.pdf,Income___Ten,35340.85,1402.5,1652,1600.8,1679.2
+1040_file_151.pdf,Income___Eleven,19694,1402.5,1684,1599.2,1709.5
+1040_file_151.pdf,Income___Thirteen,290,1400.9,1751.1,1597.6,1776.6
+1040_file_151.pdf,Income___Fifteen,75,1404.1,1819.8,1596,1848.5
+1040_file_153.pdf,Basic Information___First Name,Fernando,111.9,329.1,639.7,361.1
+1040_file_153.pdf,Basic Information___Last Name,Waters,673.3,325.9,1258.6,359.5
+1040_file_153.pdf,Income___One_E,2,1404.1,1151.9,1594.4,1179.1
+1040_file_153.pdf,Income___One_F,2,1405.7,1183.9,1594.4,1211
+1040_file_153.pdf,Income___One_H,41,1404.1,1252.6,1596,1278.1
+1040_file_153.pdf,Income___Two_B,38295,1402.5,1353.2,1596,1377.2
+1040_file_153.pdf,Income___Five_B,94963.64,1402.5,1450.7,1600.8,1479.4
+1040_file_153.pdf,Income___Seven,22,1404.1,1548.1,1597.6,1576.9
+1040_file_153.pdf,Income___Eight,0,1404.1,1586.5,1596,1610.5
+1040_file_153.pdf,Income___Nine,37925.716,1404.1,1618.4,1592.9,1644
+1040_file_153.pdf,Income___Ten,20193.75,1402.5,1652,1600.8,1679.2
+1040_file_153.pdf,Income___Eleven,97030.36,1402.5,1684,1599.2,1709.5
+1040_file_153.pdf,Income___Thirteen,719,1400.9,1751.1,1597.6,1776.6
+1040_file_153.pdf,Income___Fourteen,55020.203,1404.1,1784.6,1597.6,1811.8
+1040_file_159.pdf,Basic Information___First Name,Lynn,111.9,329.1,639.7,361.1
+1040_file_159.pdf,Basic Information___Last Name,Houston,673.3,325.9,1258.6,359.5
+1040_file_159.pdf,Income___One_B,251,1404.1,1052.9,1597.6,1075.2
+1040_file_159.pdf,Income___One_C,90023,1405.7,1086.4,1591.3,1112
+1040_file_159.pdf,Income___One_E,521,1404.1,1151.9,1594.4,1179.1
+1040_file_159.pdf,Income___One_H,95995.866,1404.1,1252.6,1596,1278.1
+1040_file_159.pdf,Income___Three_B,59655.829,1404.1,1386.8,1596,1412.3
+1040_file_159.pdf,Income___Five_B,65028.04,1402.5,1450.7,1600.8,1479.4
+1040_file_159.pdf,Income___Seven,25511.418,1404.1,1548.1,1597.6,1576.9
+1040_file_159.pdf,Income___Ten,2910.307,1402.5,1652,1600.8,1679.2
+1040_file_159.pdf,Income___Eleven,40995.26,1402.5,1684,1599.2,1709.5
+1040_file_159.pdf,Income___Thirteen,38283.095,1400.9,1751.1,1597.6,1776.6
+1040_file_159.pdf,Income___Fourteen,80119.085,1404.1,1784.6,1597.6,1811.8
+1040_file_159.pdf,Income___Fifteen,8182,1404.1,1819.8,1596,1848.5
+1040_file_165.pdf,Basic Information___First Name,Marc,111.9,329.1,639.7,361.1
+1040_file_165.pdf,Basic Information___Last Name,Taylor,673.3,325.9,1258.6,359.5
+1040_file_165.pdf,Income___One_A,5390,1405.7,1017.7,1591.3,1046.5
+1040_file_165.pdf,Income___One_B,75767.73,1404.1,1052.9,1597.6,1075.2
+1040_file_165.pdf,Income___One_F,11157,1405.7,1183.9,1594.4,1211
+1040_file_165.pdf,Income___Two_B,40765.41,1402.5,1353.2,1596,1377.2
+1040_file_165.pdf,Income___Seven,67606.37,1404.1,1548.1,1597.6,1576.9
+1040_file_165.pdf,Income___Eight,91403,1404.1,1586.5,1596,1610.5
+1040_file_165.pdf,Income___Eleven,84326.06,1402.5,1684,1599.2,1709.5
+1040_file_165.pdf,Income___Thirteen,11139.693,1400.9,1751.1,1597.6,1776.6
+1040_file_165.pdf,Income___Fifteen,3,1404.1,1819.8,1596,1848.5
+1040_file_166.pdf,Basic Information___First Name,Jose,111.9,329.1,639.7,361.1
+1040_file_166.pdf,Basic Information___Last Name,Morales,673.3,325.9,1258.6,359.5
+1040_file_166.pdf,Income___One_B,38480.18,1404.1,1052.9,1597.6,1075.2
+1040_file_166.pdf,Income___One_C,649,1405.7,1086.4,1591.3,1112
+1040_file_166.pdf,Income___One_D,1045,1405.7,1116.8,1591.3,1147.1
+1040_file_166.pdf,Income___One_E,68924.29,1404.1,1151.9,1594.4,1179.1
+1040_file_166.pdf,Income___One_G,738,1404.1,1219,1596,1246.2
+1040_file_166.pdf,Income___One_H,93,1404.1,1252.6,1596,1278.1
+1040_file_166.pdf,Income___Five_B,38373.5,1402.5,1450.7,1600.8,1479.4
+1040_file_166.pdf,Income___Six_B,4,1402.5,1487.4,1596,1511.4
+1040_file_166.pdf,Income___Seven,45435.1,1404.1,1548.1,1597.6,1576.9
+1040_file_166.pdf,Income___Fourteen,3,1404.1,1784.6,1597.6,1811.8
+1040_file_171.pdf,Basic Information___First Name,Debbie,111.9,329.1,639.7,361.1
+1040_file_171.pdf,Basic Information___Last Name,Cooper,673.3,325.9,1258.6,359.5
+1040_file_171.pdf,Income___One_B,25752,1404.1,1052.9,1597.6,1075.2
+1040_file_171.pdf,Income___One_D,34189.57,1405.7,1116.8,1591.3,1147.1
+1040_file_171.pdf,Income___One_Z,6,1404.1,1310.1,1596,1342
+1040_file_171.pdf,Income___Three_B,47033.86,1404.1,1386.8,1596,1412.3
+1040_file_171.pdf,Income___Seven,49279.847,1404.1,1548.1,1597.6,1576.9
+1040_file_171.pdf,Income___Eleven,84132.98,1402.5,1684,1599.2,1709.5
+1040_file_171.pdf,Income___Twelve,111,1404.1,1717.5,1597.6,1744.7
+1040_file_171.pdf,Income___Thirteen,6890,1400.9,1751.1,1597.6,1776.6
+1040_file_171.pdf,Income___Fifteen,40782.305,1404.1,1819.8,1596,1848.5
+1040_file_175.pdf,Basic Information___First Name,Ruth,111.9,329.1,639.7,361.1
+1040_file_175.pdf,Basic Information___Last Name,Doyle,673.3,325.9,1258.6,359.5
+1040_file_175.pdf,Income___One_C,20705.196,1405.7,1086.4,1591.3,1112
+1040_file_175.pdf,Income___One_F,1,1405.7,1183.9,1594.4,1211
+1040_file_175.pdf,Income___One_G,57091.872,1404.1,1219,1596,1246.2
+1040_file_175.pdf,Income___Three_B,7016,1404.1,1386.8,1596,1412.3
+1040_file_175.pdf,Income___Five_B,10505.68,1402.5,1450.7,1600.8,1479.4
+1040_file_175.pdf,Income___Eight,29663.03,1404.1,1586.5,1596,1610.5
+1040_file_175.pdf,Income___Nine,40606.12,1404.1,1618.4,1592.9,1644
+1040_file_175.pdf,Income___Ten,54,1402.5,1652,1600.8,1679.2
+1040_file_175.pdf,Income___Eleven,23478.35,1402.5,1684,1599.2,1709.5
+1040_file_178.pdf,Basic Information___First Name,William,111.9,329.1,639.7,361.1
+1040_file_178.pdf,Basic Information___Last Name,Brown,673.3,325.9,1258.6,359.5
+1040_file_178.pdf,Income___One_D,16604.27,1405.7,1116.8,1591.3,1147.1
+1040_file_178.pdf,Income___Two_B,98145.45,1402.5,1353.2,1596,1377.2
+1040_file_178.pdf,Income___Three_B,28159,1404.1,1386.8,1596,1412.3
+1040_file_178.pdf,Income___Four_B,97230.385,1404.1,1420.3,1599.2,1445.9
+1040_file_178.pdf,Income___Five_B,49532.31,1402.5,1450.7,1600.8,1479.4
+1040_file_178.pdf,Income___Eleven,64,1402.5,1684,1599.2,1709.5
+1040_file_178.pdf,Income___Fourteen,91885.289,1404.1,1784.6,1597.6,1811.8
+1040_file_183.pdf,Basic Information___First Name,Francisco,111.9,329.1,639.7,361.1
+1040_file_183.pdf,Basic Information___Last Name,Brown,673.3,325.9,1258.6,359.5
+1040_file_183.pdf,Income___One_A,21854.481,1405.7,1017.7,1591.3,1046.5
+1040_file_183.pdf,Income___One_B,96296.468,1404.1,1052.9,1597.6,1075.2
+1040_file_183.pdf,Income___One_D,64201.639,1405.7,1116.8,1591.3,1147.1
+1040_file_183.pdf,Income___One_E,39393,1404.1,1151.9,1594.4,1179.1
+1040_file_183.pdf,Income___Three_B,356,1404.1,1386.8,1596,1412.3
+1040_file_183.pdf,Income___Four_B,17932.55,1404.1,1420.3,1599.2,1445.9
+1040_file_183.pdf,Income___Five_B,39920.04,1402.5,1450.7,1600.8,1479.4
+1040_file_183.pdf,Income___Eight,76222,1404.1,1586.5,1596,1610.5
+1040_file_183.pdf,Income___Twelve,18,1404.1,1717.5,1597.6,1744.7
+1040_file_187.pdf,Basic Information___First Name,Brett,111.9,329.1,639.7,361.1
+1040_file_187.pdf,Basic Information___Last Name,Smith,673.3,325.9,1258.6,359.5
+1040_file_187.pdf,Income___One_B,62,1404.1,1052.9,1597.6,1075.2
+1040_file_187.pdf,Income___One_C,56,1405.7,1086.4,1591.3,1112
+1040_file_187.pdf,Income___One_E,29,1404.1,1151.9,1594.4,1179.1
+1040_file_187.pdf,Income___One_F,96009,1405.7,1183.9,1594.4,1211
+1040_file_187.pdf,Income___One_H,89440,1404.1,1252.6,1596,1278.1
+1040_file_187.pdf,Income___One_Z,8662,1404.1,1310.1,1596,1342
+1040_file_187.pdf,Income___Three_B,322,1404.1,1386.8,1596,1412.3
+1040_file_187.pdf,Income___Five_B,54466,1402.5,1450.7,1600.8,1479.4
+1040_file_187.pdf,Income___Six_B,14562.301,1402.5,1487.4,1596,1511.4
+1040_file_187.pdf,Income___Seven,46053.4,1404.1,1548.1,1597.6,1576.9
+1040_file_187.pdf,Income___Eight,49,1404.1,1586.5,1596,1610.5
+1040_file_187.pdf,Income___Twelve,337,1404.1,1717.5,1597.6,1744.7
+1040_file_187.pdf,Income___Fourteen,85561,1404.1,1784.6,1597.6,1811.8
